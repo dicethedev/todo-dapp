@@ -1,0 +1,14 @@
+{
+  "name": "to-do",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Blessing.eth",
+  "license": "ISC",
+  "dependencies": {
+    "ethers": "^5.7.0"
+  }
+}
